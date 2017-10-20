@@ -7,7 +7,7 @@ package be.vdab;
 public class Gitcursus {
 
     public static void main(String[] args) {
-        System.out.println("Bonjour");
+        System.out.println("Bonjour tout le monde");
     }
     
 }
